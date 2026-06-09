@@ -1,0 +1,4 @@
+import os
+
+GROQ_API_KEY = "your_key_here"
+GROQ_MODEL = "llama-3.1-8b-instant"
