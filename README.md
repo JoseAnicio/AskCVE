@@ -23,6 +23,14 @@ The result is a chatbot that reasons over real vulnerability data — not halluc
 
 ---
 
+## Screenshots
+
+<p>
+  <img src="images/app_print.png" width="45%"/>
+</p>
+
+---
+
 ## Tech Stack
 
 | Component | Tool | Cost |
