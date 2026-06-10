@@ -23,7 +23,7 @@ Question: {asking}
 """
     return llm.invoke(prompt).content
 
-st.title("Cybersecurity CVE Q&A")
+st.title("AskCVE — RAG-powered Security Q&A")
 st.caption("Ask questions about cybersecurity vulnerabilities related to Apache, Nginx, OpenSSL, Linux, WordPress, MySQL, SSH, and PHP.")
 
 collection, model, llm = load_model() 
