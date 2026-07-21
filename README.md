@@ -1,4 +1,4 @@
-# AskCVE — RAG-powered Security Q&A
+# AskCVE | RAG-powered Security Q&A
 
 A question-answering system about real security vulnerabilities, built with Retrieval-Augmented Generation (RAG). Ask questions in natural language and get answers grounded in actual CVE data from the National Vulnerability Database (NVD).
 
